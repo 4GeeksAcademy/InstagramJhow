@@ -1,0 +1,88 @@
+
+.pagina{
+    background-color: rgb(219, 213, 213);
+}
+
+.titulo{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    margin: center;
+    
+}
+
+.historia1{
+    width: 30%;
+    height: 30%;
+    margin: 30px auto;
+    background-color: white;
+}
+.historia2{
+    width: 30%;
+    height: 30%;
+    margin: 30px auto;
+    background-color: white;
+}
+.historia3{
+    width: 30%;
+    height: 30%;
+    margin: 30px auto;
+    background-color: white;
+}
+.historia4{
+    width: 30%;
+    height: 30%;
+    margin: 30px auto;
+    background-color: white;
+}
+.encabezado{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    display: flex;
+    margin: 10px auto;
+    
+}
+.foto img{
+    width:  100%;
+    height: 250px;
+    margin: 10px auto;
+    background-color: white;
+    border: 1px solid rgb(219, 213, 213); 
+}
+.descripcion p{
+align-content: center;
+margin-left: 15px;
+margin-right: 15px;
+}
+.titulo h1{
+    text-align: center;
+}
+.encabezado h4{
+    width: 100%;
+    height: 100%;
+    margin: 0px left;
+    margin-left: 15px;
+    
+}
+.encabezado p{
+    width: 100%;
+    height: 100%;
+    margin: 0px right;
+    text-align: right;
+    color: rgb(163, 162, 162);
+    margin-right: 15px;
+    font-size: small;
+}
+.descripcion{
+    width:  100%;
+    height: 100%;
+    margin: 0px auto;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.fin{
+    background-color: rgb(219, 213, 213);  
+    width:  100%;
+    height: 15px;
+}
